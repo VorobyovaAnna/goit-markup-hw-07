@@ -466,7 +466,7 @@ body {
   transition: background-color var(--timing-function);
 }
 .footer__social-networks-link:hover,
-.footer__social-networks-:focus {
+.footer__social-networks-link:focus {
   background-color: var(--accent-color);
 }
 
